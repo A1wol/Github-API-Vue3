@@ -1,5 +1,5 @@
 # Github Api
-Vuetiy 3 & Vue3. Scss preprocessor included.
+Vuetify 3 & Vue3 + Composition API & Pinia. Scss preprocessor included.
 ## Project setup
 
 ```
