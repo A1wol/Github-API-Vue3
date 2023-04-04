@@ -1,5 +1,5 @@
-# default
-
+# Github Api
+Vuetiy 3 & Vue3. Scss preprocessor included.
 ## Project setup
 
 ```
